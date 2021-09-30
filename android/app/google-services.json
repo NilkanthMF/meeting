@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "174984628298",
+    "firebase_url": "https://mobilefirst-meeting-default-rtdb.firebaseio.com",
+    "project_id": "mobilefirst-meeting",
+    "storage_bucket": "mobilefirst-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174984628298:android:0bb38f92c59b7589d8feb3",
+        "android_client_info": {
+          "package_name": "com.agora.mobilefirst.meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174984628298-hoi7eegkkfs6pc4rs2t89fm2jqo48nbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.mobilefirst.meeting",
+            "certificate_hash": "621059dcb10dd5efa00ac4f221c8746c1b9a5d5f"
+          }
+        },
+        {
+          "client_id": "174984628298-ns58rklfhtjgn3aqmv50lelug4np6ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.mobilefirst.meeting",
+            "certificate_hash": "3c1d76fd39a71ff0e3c278cc83b4cd8040e0c618"
+          }
+        },
+        {
+          "client_id": "174984628298-sep1oeumc6f0tjlbe4dpcq8bo89oieq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOLL_OL0eLqyLYqEM2LMbXfahxWScr7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174984628298-sep1oeumc6f0tjlbe4dpcq8bo89oieq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174984628298-he3h0taeiokn6m0ffbttgpnp0fe7l4jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobilefirst.meeting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174984628298:android:af45de6ce1e3875dd8feb3",
+        "android_client_info": {
+          "package_name": "com.agora.videocalling.agora_video_calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174984628298-e387pagog86idv0qcb03dd0qlfnfp0lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.videocalling.agora_video_calling",
+            "certificate_hash": "621059dcb10dd5efa00ac4f221c8746c1b9a5d5f"
+          }
+        },
+        {
+          "client_id": "174984628298-vof260gm4m6ujsc8oqsqab37l3c2af6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agora.videocalling.agora_video_calling",
+            "certificate_hash": "3c1d76fd39a71ff0e3c278cc83b4cd8040e0c618"
+          }
+        },
+        {
+          "client_id": "174984628298-sep1oeumc6f0tjlbe4dpcq8bo89oieq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOLL_OL0eLqyLYqEM2LMbXfahxWScr7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174984628298-sep1oeumc6f0tjlbe4dpcq8bo89oieq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174984628298-he3h0taeiokn6m0ffbttgpnp0fe7l4jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobilefirst.meeting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
